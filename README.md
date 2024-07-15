@@ -19,7 +19,8 @@ Welcome to my Instagram Clone project! This project is a web application built u
 - **JavaScript**: The programming language used to build the application.
 
 ## Demo
-- Feel free to check it out! [Instagram Clone](https://mycustomsocialmedia.vercel.app)
+- Feel free to check it out! [Instagram Clone](https://dev-patel-project.vercel.app/)
+- Please note, the website is currently under review by Google for potential phishing (since its a clone), so do not refresh the page
 
 
 Thank you for looking at this project! If you have any questions or suggestions, feel free to contact me at devptl04@gmail.com.
