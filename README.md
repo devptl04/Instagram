@@ -1,10 +1,10 @@
 # Instagram Clone
 
-Welcome to the Instagram Clone project! This project is a web application built using React, Chakra UI, Firebase, and JavaScript, mimicking the core functionalities of Instagram. It includes user authentication, post creation, comments, likes, and a feed of posts from followed users.
+Welcome to my Instagram Clone project! This project is a web application built using React, Chakra UI, Firebase, and JavaScript, mimicking the core functionalities of Instagram. It includes user authentication, post creation, comments, likes, and a feed of posts from followed users.
 
 ## Features
 
-- **User Authentication**: Sign up, log in, and log out functionality using Firebase Authentication.
+- **User Authentication**: Sign up, log in, google login, and log out functionality using Firebase Authentication.
 - **User Profiles**: Each user has a profile with their posts and a bio.
 - **Post Creation**: Users can create new posts with text and images.
 - **Feed**: Users can see posts from users they follow.
