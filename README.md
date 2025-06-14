@@ -19,7 +19,7 @@ Welcome to my Instagram Clone project! This project is a web application built u
 - **JavaScript**: The programming language used to build the application.
 
 ## Demo
-- Feel free to check it out! https://custom-project-git-main-dev-patels-projects-530259b8.vercel.app/auth
+- Feel free to check it out! https://custom-project-3xt1sq1tu-dev-patels-projects-530259b8.vercel.app
 - Please note, the website is currently under review by Google for potential phishing (since its a clone), so it only works if you're in incognito. 
 
 
