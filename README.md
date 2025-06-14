@@ -20,7 +20,7 @@ Welcome to my Instagram Clone project! This project is a web application built u
 
 ## Demo
 - Feel free to check it out! [Instagram Clone](https://instagram-dev-patels-projects-530259b8.vercel.app/auth)
-- Please note, the website is currently under review by Google for potential phishing (since its a clone), so do not refresh the page
+- Please note, the website is currently under review by Google for potential phishing (since its a clone), so it only works if you're in incognito. 
 
 
 Thank you for looking at this project! If you have any questions or suggestions, feel free to contact me at devptl04@gmail.com.
